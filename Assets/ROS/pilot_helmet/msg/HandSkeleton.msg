@@ -1,0 +1,27 @@
+time timestamp
+geometry_msgs/Transform head
+geometry_msgs/Transform wrist_root
+geometry_msgs/Transform forearm_stub
+geometry_msgs/Transform thumb0
+geometry_msgs/Transform thumb1
+geometry_msgs/Transform thumb2
+geometry_msgs/Transform thumb3
+geometry_msgs/Transform thumb_tip
+geometry_msgs/Transform index1
+geometry_msgs/Transform index2
+geometry_msgs/Transform index3
+geometry_msgs/Transform index_tip
+geometry_msgs/Transform middle1
+geometry_msgs/Transform middle2
+geometry_msgs/Transform middle3
+geometry_msgs/Transform middle_tip
+geometry_msgs/Transform ring1
+geometry_msgs/Transform ring2
+geometry_msgs/Transform ring3
+geometry_msgs/Transform ring_tip
+geometry_msgs/Transform pinky0
+geometry_msgs/Transform pinky1
+geometry_msgs/Transform pinky2
+geometry_msgs/Transform pinky3
+geometry_msgs/Transform pinky_tip
+
